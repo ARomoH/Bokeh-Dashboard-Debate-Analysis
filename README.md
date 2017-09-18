@@ -3,7 +3,7 @@ Project developed in Python 3.5 making use of Bokeh library to display opinion o
 
 ## Dashboard elements
 An image of the dashboard is shown below.
-![Alt text](/Images/dashboard_image?raw=true)
+![Alt text](https://github.com/ARomoH/Bokeh-Dashboard-Debate-Analysis/blob/master/Images/dashboard_image.png)
 
 In the upper left, it can see 3 widget where can be add the next information:
 - **Political**: It can select all tweets where the name of a candidate appears.
